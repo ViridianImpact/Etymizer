@@ -6,14 +6,76 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		629C8E092FEE58F300A6E1F7 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 629C8E082FEE58F300A6E1F7 /* WidgetKit.framework */; };
+		629C8E0B2FEE58F300A6E1F7 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 629C8E0A2FEE58F300A6E1F7 /* SwiftUI.framework */; };
+		629C8E182FEE58F400A6E1F7 /* EtymizerWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 629C8E062FEE58F300A6E1F7 /* EtymizerWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		62A633452FEE5E3C00A7AD8D /* WordEnricher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62A633432FEE5E3C00A7AD8D /* WordEnricher.swift */; };
+		62A633462FEE5E3C00A7AD8D /* WordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62A633442FEE5E3C00A7AD8D /* WordStore.swift */; };
+		62A633472FEE5E3C00A7AD8D /* WordEnricher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62A633432FEE5E3C00A7AD8D /* WordEnricher.swift */; };
+		62A633482FEE5E3C00A7AD8D /* WordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62A633442FEE5E3C00A7AD8D /* WordStore.swift */; };
+		62A6334E2FEE5EE300A7AD8D /* WordOfDayApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62A6334D2FEE5EE300A7AD8D /* WordOfDayApp.swift */; };
+		62A633592FF0854800A7AD8D /* WordBank.json in Resources */ = {isa = PBXBuildFile; fileRef = 62A633582FF0854800A7AD8D /* WordBank.json */; };
+		62A6335A2FF3011400A7AD8D /* WordBank.json in Resources */ = {isa = PBXBuildFile; fileRef = 62A633582FF0854800A7AD8D /* WordBank.json */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		629C8E162FEE58F400A6E1F7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 629C8DEC2FEE57F000A6E1F7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 629C8E052FEE58F300A6E1F7;
+			remoteInfo = EtymizerWidgetExtension;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		629C8E1D2FEE58F400A6E1F7 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				629C8E182FEE58F400A6E1F7 /* EtymizerWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		629C8DF42FEE57F100A6E1F7 /* Etymizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Etymizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		629C8E062FEE58F300A6E1F7 /* EtymizerWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = EtymizerWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		629C8E082FEE58F300A6E1F7 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		629C8E0A2FEE58F300A6E1F7 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		62A633432FEE5E3C00A7AD8D /* WordEnricher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordEnricher.swift; sourceTree = "<group>"; };
+		62A633442FEE5E3C00A7AD8D /* WordStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordStore.swift; sourceTree = "<group>"; };
+		62A6334D2FEE5EE300A7AD8D /* WordOfDayApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordOfDayApp.swift; sourceTree = "<group>"; };
+		62A633582FF0854800A7AD8D /* WordBank.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = WordBank.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		629C8E192FEE58F400A6E1F7 /* Exceptions for "EtymizerWidget" folder in "EtymizerWidgetExtension" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 629C8E052FEE58F300A6E1F7 /* EtymizerWidgetExtension */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		629C8DF62FEE57F100A6E1F7 /* Etymizer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Etymizer;
+			sourceTree = "<group>";
+		};
+		629C8E0C2FEE58F300A6E1F7 /* EtymizerWidget */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				629C8E192FEE58F400A6E1F7 /* Exceptions for "EtymizerWidget" folder in "EtymizerWidgetExtension" target */,
+			);
+			path = EtymizerWidget;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -26,14 +88,28 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		629C8E032FEE58F300A6E1F7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				629C8E0B2FEE58F300A6E1F7 /* SwiftUI.framework in Frameworks */,
+				629C8E092FEE58F300A6E1F7 /* WidgetKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
 		629C8DEB2FEE57F000A6E1F7 = {
 			isa = PBXGroup;
 			children = (
+				62A633422FEE5CD900A7AD8D /* Shared */,
 				629C8DF62FEE57F100A6E1F7 /* Etymizer */,
+				629C8E0C2FEE58F300A6E1F7 /* EtymizerWidget */,
+				629C8E072FEE58F300A6E1F7 /* Frameworks */,
 				629C8DF52FEE57F100A6E1F7 /* Products */,
+				62A6334D2FEE5EE300A7AD8D /* WordOfDayApp.swift */,
+				62A633582FF0854800A7AD8D /* WordBank.json */,
 			);
 			sourceTree = "<group>";
 		};
@@ -41,8 +117,27 @@
 			isa = PBXGroup;
 			children = (
 				629C8DF42FEE57F100A6E1F7 /* Etymizer.app */,
+				629C8E062FEE58F300A6E1F7 /* EtymizerWidgetExtension.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		629C8E072FEE58F300A6E1F7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				629C8E082FEE58F300A6E1F7 /* WidgetKit.framework */,
+				629C8E0A2FEE58F300A6E1F7 /* SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		62A633422FEE5CD900A7AD8D /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				62A633432FEE5E3C00A7AD8D /* WordEnricher.swift */,
+				62A633442FEE5E3C00A7AD8D /* WordStore.swift */,
+			);
+			path = Shared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -55,10 +150,12 @@
 				629C8DF02FEE57F100A6E1F7 /* Sources */,
 				629C8DF12FEE57F100A6E1F7 /* Frameworks */,
 				629C8DF22FEE57F100A6E1F7 /* Resources */,
+				629C8E1D2FEE58F400A6E1F7 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				629C8E172FEE58F400A6E1F7 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				629C8DF62FEE57F100A6E1F7 /* Etymizer */,
@@ -69,6 +166,28 @@
 			productName = Etymizer;
 			productReference = 629C8DF42FEE57F100A6E1F7 /* Etymizer.app */;
 			productType = "com.apple.product-type.application";
+		};
+		629C8E052FEE58F300A6E1F7 /* EtymizerWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 629C8E1A2FEE58F400A6E1F7 /* Build configuration list for PBXNativeTarget "EtymizerWidgetExtension" */;
+			buildPhases = (
+				629C8E022FEE58F300A6E1F7 /* Sources */,
+				629C8E032FEE58F300A6E1F7 /* Frameworks */,
+				629C8E042FEE58F300A6E1F7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				629C8E0C2FEE58F300A6E1F7 /* EtymizerWidget */,
+			);
+			name = EtymizerWidgetExtension;
+			packageProductDependencies = (
+			);
+			productName = EtymizerWidgetExtension;
+			productReference = 629C8E062FEE58F300A6E1F7 /* EtymizerWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -81,6 +200,10 @@
 				LastUpgradeCheck = 2660;
 				TargetAttributes = {
 					629C8DF32FEE57F100A6E1F7 = {
+						CreatedOnToolsVersion = 26.6;
+						LastSwiftMigration = 2660;
+					};
+					629C8E052FEE58F300A6E1F7 = {
 						CreatedOnToolsVersion = 26.6;
 					};
 				};
@@ -100,6 +223,7 @@
 			projectRoot = "";
 			targets = (
 				629C8DF32FEE57F100A6E1F7 /* Etymizer */,
+				629C8E052FEE58F300A6E1F7 /* EtymizerWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -109,6 +233,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62A633592FF0854800A7AD8D /* WordBank.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		629C8E042FEE58F300A6E1F7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				62A6335A2FF3011400A7AD8D /* WordBank.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,10 +252,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62A6334E2FEE5EE300A7AD8D /* WordOfDayApp.swift in Sources */,
+				62A633452FEE5E3C00A7AD8D /* WordEnricher.swift in Sources */,
+				62A633462FEE5E3C00A7AD8D /* WordStore.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		629C8E022FEE58F300A6E1F7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				62A633472FEE5E3C00A7AD8D /* WordEnricher.swift in Sources */,
+				62A633482FEE5E3C00A7AD8D /* WordStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		629C8E172FEE58F400A6E1F7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 629C8E052FEE58F300A6E1F7 /* EtymizerWidgetExtension */;
+			targetProxy = 629C8E162FEE58F400A6E1F7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		629C8DFD2FEE57F200A6E1F7 /* Debug */ = {
@@ -246,6 +399,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Etymizer/Etymizer.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = LRLG97C3NP;
@@ -278,6 +433,7 @@
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
@@ -290,6 +446,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = Etymizer/Etymizer.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = LRLG97C3NP;
@@ -329,6 +487,73 @@
 			};
 			name = Release;
 		};
+		629C8E1B2FEE58F400A6E1F7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_ENTITLEMENTS = EtymizerWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LRLG97C3NP;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EtymizerWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = EtymizerWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chelisew.Etymizer.EtymizerWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		629C8E1C2FEE58F400A6E1F7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_ENTITLEMENTS = EtymizerWidgetExtension.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LRLG97C3NP;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EtymizerWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = EtymizerWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chelisew.Etymizer.EtymizerWidget;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -346,6 +571,15 @@
 			buildConfigurations = (
 				629C8E002FEE57F200A6E1F7 /* Debug */,
 				629C8E012FEE57F200A6E1F7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		629C8E1A2FEE58F400A6E1F7 /* Build configuration list for PBXNativeTarget "EtymizerWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				629C8E1B2FEE58F400A6E1F7 /* Debug */,
+				629C8E1C2FEE58F400A6E1F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

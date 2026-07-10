@@ -1,0 +1,891 @@
+[
+  {
+    "word": "petrichor",
+    "partOfSpeech": "n.",
+    "definition": "The pleasant, earthy smell produced when rain falls on dry soil.",
+    "synonyms": ["earth-scent", "rain-smell"],
+    "etymology": "Coined 1964 from Greek 'petra' (stone) + 'ichor' (the fluid said to flow in the veins of the gods)."
+  },
+  {
+    "word": "sonder",
+    "partOfSpeech": "n.",
+    "definition": "The realization that each passerby is living a life as vivid and complex as your own.",
+    "synonyms": ["empathy", "perspective"],
+    "etymology": "Neologism coined 2012 in The Dictionary of Obscure Sorrows, echoing French 'sonder' (to probe) and German 'sonder' (special)."
+  },
+  {
+    "word": "limerence",
+    "partOfSpeech": "n.",
+    "definition": "The state of being infatuated or obsessed with another person, typically involuntarily.",
+    "synonyms": ["infatuation", "fixation"],
+    "etymology": "Coined 1979 by psychologist Dorothy Tennov; an invented term with no deeper root, chosen for its sound."
+  },
+  {
+    "word": "apricity",
+    "partOfSpeech": "n.",
+    "definition": "The warmth of the sun in winter.",
+    "synonyms": ["sun-warmth"],
+    "etymology": "From Latin 'apricus' (exposed to the sun, sunny); rare in English since the 17th century."
+  },
+  {
+    "word": "susurrus",
+    "partOfSpeech": "n.",
+    "definition": "A whispering, murmuring, or rustling sound.",
+    "synonyms": ["murmur", "rustle", "whisper"],
+    "etymology": "Latin 'susurrus' (a humming, whispering), imitative of the sound itself."
+  },
+  {
+    "word": "eunoia",
+    "partOfSpeech": "n.",
+    "definition": "Beautiful thinking; a well-balanced mind; goodwill toward an audience.",
+    "synonyms": ["goodwill", "benevolence"],
+    "etymology": "Greek 'eu' (well) + 'nous' (mind). The shortest English word containing all five vowels."
+  },
+  {
+    "word": "hiraeth",
+    "partOfSpeech": "n.",
+    "definition": "A homesickness or longing for a home, place, or time that may never have existed.",
+    "synonyms": ["longing", "nostalgia", "yearning"],
+    "etymology": "Welsh, with no direct English equivalent; combines 'hir' (long) and an element related to grief."
+  },
+  {
+    "word": "vellichor",
+    "partOfSpeech": "n.",
+    "definition": "The strange wistfulness of secondhand bookstores.",
+    "synonyms": ["book-nostalgia"],
+    "etymology": "Neologism from The Dictionary of Obscure Sorrows, blending 'vellum' (parchment) with the '-chor' of petrichor."
+  },
+  {
+    "word": "numinous",
+    "partOfSpeech": "adj.",
+    "definition": "Describing an experience that evokes awe, mystery, or the presence of the divine.",
+    "synonyms": ["awe-inspiring", "transcendent", "sublime"],
+    "etymology": "From Latin 'numen' (divine will, nod of a god); popularized by theologian Rudolf Otto in 1917."
+  },
+  {
+    "word": "saudade",
+    "partOfSpeech": "n.",
+    "definition": "A deep, melancholic longing for something absent that one loves.",
+    "synonyms": ["yearning", "wistfulness", "longing"],
+    "etymology": "Portuguese, likely from Latin 'solitas' (solitude); central to Portuguese and Brazilian cultural identity."
+  },
+  {
+    "word": "ephemeral",
+    "partOfSpeech": "adj.",
+    "definition": "Lasting for a very short time; transitory.",
+    "synonyms": ["fleeting", "transient", "momentary"],
+    "etymology": "Greek 'ephemeros' (lasting only a day), from 'epi' (on) + 'hemera' (day)."
+  },
+  {
+    "word": "mendacious",
+    "partOfSpeech": "adj.",
+    "definition": "Given to lying; not truthful.",
+    "synonyms": ["dishonest", "deceitful", "untruthful"],
+    "etymology": "Latin 'mendax' (lying), related to 'menda' (a fault or defect)."
+  },
+  {
+    "word": "perfunctory",
+    "partOfSpeech": "adj.",
+    "definition": "Carried out with minimal effort or care, as a routine duty.",
+    "synonyms": ["cursory", "superficial", "token"],
+    "etymology": "Latin 'perfunctorius' (careless), from 'perfungi' (to discharge a duty)."
+  },
+  {
+    "word": "obfuscate",
+    "partOfSpeech": "v.",
+    "definition": "To deliberately make something unclear or difficult to understand.",
+    "synonyms": ["obscure", "muddle", "confuse"],
+    "etymology": "Latin 'obfuscare' (to darken), from 'ob' (over) + 'fuscus' (dark)."
+  },
+  {
+    "word": "vacillate",
+    "partOfSpeech": "v.",
+    "definition": "To waver between different opinions or actions; to be indecisive.",
+    "synonyms": ["waver", "dither", "hesitate"],
+    "etymology": "Latin 'vacillare' (to sway, totter)."
+  },
+  {
+    "word": "schadenfreude",
+    "partOfSpeech": "n.",
+    "definition": "Pleasure derived from another person's misfortune.",
+    "synonyms": ["gloating", "malice"],
+    "etymology": "German 'Schaden' (harm) + 'Freude' (joy)."
+  },
+  {
+    "word": "zeitgeist",
+    "partOfSpeech": "n.",
+    "definition": "The defining spirit or mood of a particular period of history.",
+    "synonyms": ["ethos", "climate", "temper"],
+    "etymology": "German 'Zeit' (time) + 'Geist' (spirit); popularized in 19th-century philosophy."
+  },
+  {
+    "word": "hubris",
+    "partOfSpeech": "n.",
+    "definition": "Excessive pride or self-confidence, often leading to downfall.",
+    "synonyms": ["arrogance", "conceit", "overconfidence"],
+    "etymology": "Greek 'hybris' (insolence, outrage); in Greek tragedy, the flaw that provokes divine retribution."
+  },
+  {
+    "word": "lugubrious",
+    "partOfSpeech": "adj.",
+    "definition": "Looking or sounding sad and dismal, often exaggeratedly so.",
+    "synonyms": ["mournful", "doleful", "gloomy"],
+    "etymology": "Latin 'lugubris' (mournful), from 'lugere' (to mourn)."
+  },
+  {
+    "word": "extirpate",
+    "partOfSpeech": "v.",
+    "definition": "To root out and destroy completely.",
+    "synonyms": ["eradicate", "annihilate", "exterminate"],
+    "etymology": "Latin 'extirpare', from 'ex' (out) + 'stirps' (root, stem)."
+  },
+  {
+    "word": "sycophant",
+    "partOfSpeech": "n.",
+    "definition": "A person who flatters powerful people to gain advantage.",
+    "synonyms": ["flatterer", "toady", "bootlicker"],
+    "etymology": "Greek 'sykophantes' (informer), literally 'fig-shower', of disputed exact origin."
+  },
+  {
+    "word": "ineffable",
+    "partOfSpeech": "adj.",
+    "definition": "Too great or extreme to be expressed in words.",
+    "synonyms": ["indescribable", "unutterable", "inexpressible"],
+    "etymology": "Latin 'ineffabilis', from 'in' (not) + 'effari' (to utter)."
+  },
+  {
+    "word": "quixotic",
+    "partOfSpeech": "adj.",
+    "definition": "Exceedingly idealistic; unrealistic and impractical.",
+    "synonyms": ["idealistic", "impractical", "romantic"],
+    "etymology": "From Don Quixote, the deluded idealist hero of Cervantes's 1605 novel."
+  },
+  {
+    "word": "pernicious",
+    "partOfSpeech": "adj.",
+    "definition": "Having a harmful effect, especially in a gradual or subtle way.",
+    "synonyms": ["harmful", "insidious", "destructive"],
+    "etymology": "Latin 'perniciosus' (destructive), from 'per' (thoroughly) + 'nex' (death)."
+  },
+  {
+    "word": "ubiquitous",
+    "partOfSpeech": "adj.",
+    "definition": "Present, appearing, or found everywhere.",
+    "synonyms": ["omnipresent", "pervasive", "universal"],
+    "etymology": "Latin 'ubique' (everywhere), from 'ubi' (where)."
+  },
+  {
+    "word": "ostensible",
+    "partOfSpeech": "adj.",
+    "definition": "Stated or appearing to be true, but not necessarily so.",
+    "synonyms": ["apparent", "supposed", "purported"],
+    "etymology": "Latin 'ostendere' (to show), from 'ob' (toward) + 'tendere' (to stretch)."
+  },
+  {
+    "word": "recalcitrant",
+    "partOfSpeech": "adj.",
+    "definition": "Stubbornly resistant to authority or control.",
+    "synonyms": ["defiant", "unruly", "intractable"],
+    "etymology": "Latin 'recalcitrare' (to kick back), from 'calx' (heel)."
+  },
+  {
+    "word": "sanguine",
+    "partOfSpeech": "adj.",
+    "definition": "Optimistic or positive, especially in a difficult situation.",
+    "synonyms": ["optimistic", "hopeful", "buoyant"],
+    "etymology": "Latin 'sanguineus' (blood-red); from the medieval belief that blood was the humor governing cheerfulness."
+  },
+  {
+    "word": "taciturn",
+    "partOfSpeech": "adj.",
+    "definition": "Reserved or uncommunicative in speech; saying little.",
+    "synonyms": ["reticent", "reserved", "tight-lipped"],
+    "etymology": "Latin 'taciturnus' (silent), from 'tacere' (to be silent)."
+  },
+  {
+    "word": "capricious",
+    "partOfSpeech": "adj.",
+    "definition": "Given to sudden and unaccountable changes of mood or behavior.",
+    "synonyms": ["fickle", "mercurial", "volatile"],
+    "etymology": "Italian 'capriccio' (a sudden start), possibly from 'capo' (head) + 'riccio' (hedgehog), evoking hair standing on end."
+  },
+  {
+    "word": "magnanimous",
+    "partOfSpeech": "adj.",
+    "definition": "Generous or forgiving, especially toward a rival or less powerful person.",
+    "synonyms": ["generous", "benevolent", "noble"],
+    "etymology": "Latin 'magnanimus', from 'magnus' (great) + 'animus' (soul)."
+  },
+  {
+    "word": "obsequious",
+    "partOfSpeech": "adj.",
+    "definition": "Obedient or attentive to an excessive or servile degree.",
+    "synonyms": ["servile", "fawning", "groveling"],
+    "etymology": "Latin 'obsequiosus' (compliant), from 'obsequi' (to comply with)."
+  },
+  {
+    "word": "ephemera",
+    "partOfSpeech": "n.",
+    "definition": "Things that exist or are useful for only a short time.",
+    "synonyms": ["transient", "memorabilia"],
+    "etymology": "Greek 'ephemeros' (lasting a day); originally insects that live only briefly."
+  },
+  {
+    "word": "panacea",
+    "partOfSpeech": "n.",
+    "definition": "A solution or remedy for all difficulties or diseases.",
+    "synonyms": ["cure-all", "remedy", "elixir"],
+    "etymology": "Greek 'panakeia', from 'pan' (all) + 'akos' (cure); Panacea was a goddess of universal remedy."
+  },
+  {
+    "word": "ennui",
+    "partOfSpeech": "n.",
+    "definition": "A feeling of listlessness and dissatisfaction from lack of occupation or excitement.",
+    "synonyms": ["boredom", "tedium", "languor"],
+    "etymology": "French 'ennui' (annoyance), from Latin 'in odio' (in hatred)."
+  },
+  {
+    "word": "cacophony",
+    "partOfSpeech": "n.",
+    "definition": "A harsh, discordant mixture of sounds.",
+    "synonyms": ["din", "discord", "racket"],
+    "etymology": "Greek 'kakophonia', from 'kakos' (bad) + 'phone' (sound)."
+  },
+  {
+    "word": "juxtapose",
+    "partOfSpeech": "v.",
+    "definition": "To place close together for contrasting effect.",
+    "synonyms": ["contrast", "compare", "set side by side"],
+    "etymology": "Latin 'juxta' (next to) + French 'poser' (to place)."
+  },
+  {
+    "word": "equanimity",
+    "partOfSpeech": "n.",
+    "definition": "Mental calmness and composure, especially in a difficult situation.",
+    "synonyms": ["composure", "poise", "serenity"],
+    "etymology": "Latin 'aequanimitas', from 'aequus' (even) + 'animus' (mind)."
+  },
+  {
+    "word": "fastidious",
+    "partOfSpeech": "adj.",
+    "definition": "Very attentive to accuracy and detail; hard to please.",
+    "synonyms": ["meticulous", "punctilious", "exacting"],
+    "etymology": "Latin 'fastidium' (loathing, disgust)."
+  },
+  {
+    "word": "garrulous",
+    "partOfSpeech": "adj.",
+    "definition": "Excessively talkative, especially on trivial matters.",
+    "synonyms": ["loquacious", "voluble", "chatty"],
+    "etymology": "Latin 'garrulus', from 'garrire' (to chatter)."
+  },
+  {
+    "word": "inexorable",
+    "partOfSpeech": "adj.",
+    "definition": "Impossible to stop or prevent; relentless.",
+    "synonyms": ["relentless", "unstoppable", "inevitable"],
+    "etymology": "Latin 'inexorabilis', from 'in' (not) + 'exorare' (to persuade)."
+  },
+  {
+    "word": "iconoclast",
+    "partOfSpeech": "n.",
+    "definition": "A person who attacks cherished beliefs or institutions.",
+    "synonyms": ["rebel", "dissenter", "maverick"],
+    "etymology": "Greek 'eikon' (image) + 'klastes' (breaker); originally a destroyer of religious images."
+  },
+  {
+    "word": "laconic",
+    "partOfSpeech": "adj.",
+    "definition": "Using very few words; terse to the point of seeming rude.",
+    "synonyms": ["terse", "succinct", "curt"],
+    "etymology": "Greek 'Lakonikos', after the Spartans (Laconia), famed for blunt speech."
+  },
+  {
+    "word": "munificent",
+    "partOfSpeech": "adj.",
+    "definition": "More generous than is usual or necessary.",
+    "synonyms": ["lavish", "bountiful", "openhanded"],
+    "etymology": "Latin 'munificus', from 'munus' (gift) + 'facere' (to make)."
+  },
+  {
+    "word": "nefarious",
+    "partOfSpeech": "adj.",
+    "definition": "Wicked or criminal, typically in a flagrant way.",
+    "synonyms": ["villainous", "heinous", "iniquitous"],
+    "etymology": "Latin 'nefarius', from 'nefas' (wrong, crime), itself 'ne' (not) + 'fas' (divine law)."
+  },
+  {
+    "word": "perspicacious",
+    "partOfSpeech": "adj.",
+    "definition": "Having a ready insight into and understanding of things.",
+    "synonyms": ["perceptive", "astute", "shrewd"],
+    "etymology": "Latin 'perspicax' (sharp-sighted), from 'perspicere' (to see through)."
+  },
+  {
+    "word": "querulous",
+    "partOfSpeech": "adj.",
+    "definition": "Complaining in a petulant or whining manner.",
+    "synonyms": ["petulant", "fretful", "peevish"],
+    "etymology": "Latin 'querulus', from 'queri' (to complain)."
+  },
+  {
+    "word": "reticent",
+    "partOfSpeech": "adj.",
+    "definition": "Not revealing one's thoughts or feelings readily.",
+    "synonyms": ["reserved", "restrained", "guarded"],
+    "etymology": "Latin 'reticere' (to keep silent), from 're' (intensive) + 'tacere' (to be silent)."
+  },
+  {
+    "word": "sagacious",
+    "partOfSpeech": "adj.",
+    "definition": "Having or showing keen mental discernment and good judgment.",
+    "synonyms": ["wise", "shrewd", "discerning"],
+    "etymology": "Latin 'sagax' (of keen perception), related to 'sagire' (to perceive keenly)."
+  },
+  {
+    "word": "truculent",
+    "partOfSpeech": "adj.",
+    "definition": "Eager or quick to argue or fight; aggressively defiant.",
+    "synonyms": ["belligerent", "combative", "pugnacious"],
+    "etymology": "Latin 'truculentus', from 'trux' (fierce, savage)."
+  },
+  {
+    "word": "vicarious",
+    "partOfSpeech": "adj.",
+    "definition": "Experienced through the feelings or actions of another person.",
+    "synonyms": ["secondhand", "indirect", "surrogate"],
+    "etymology": "Latin 'vicarius' (substitute), from 'vicis' (change, turn)."
+  },
+  {
+    "word": "winsome",
+    "partOfSpeech": "adj.",
+    "definition": "Attractive or appealing in a fresh, innocent way.",
+    "synonyms": ["charming", "engaging", "endearing"],
+    "etymology": "Old English 'wynsum', from 'wynn' (joy) + '-sum' (-some)."
+  },
+  {
+    "word": "abrogate",
+    "partOfSpeech": "v.",
+    "definition": "To repeal or do away with a law, right, or agreement.",
+    "synonyms": ["repeal", "revoke", "annul"],
+    "etymology": "Latin 'abrogare', from 'ab' (away) + 'rogare' (to propose a law)."
+  },
+  {
+    "word": "alacrity",
+    "partOfSpeech": "n.",
+    "definition": "Brisk and cheerful readiness.",
+    "synonyms": ["eagerness", "willingness", "promptness"],
+    "etymology": "Latin 'alacritas', from 'alacer' (brisk, lively)."
+  },
+  {
+    "word": "approbation",
+    "partOfSpeech": "n.",
+    "definition": "Approval or praise.",
+    "synonyms": ["approval", "commendation", "endorsement"],
+    "etymology": "Latin 'approbatio', from 'approbare' (to approve)."
+  },
+  {
+    "word": "bombastic",
+    "partOfSpeech": "adj.",
+    "definition": "High-sounding but with little meaning; inflated.",
+    "synonyms": ["pompous", "grandiloquent", "turgid"],
+    "etymology": "From 'bombast' (cotton padding), via Latin 'bombax' (cotton); figuratively, padded speech."
+  },
+  {
+    "word": "circumlocution",
+    "partOfSpeech": "n.",
+    "definition": "The use of many words where fewer would do; evasive speech.",
+    "synonyms": ["verbosity", "wordiness", "periphrasis"],
+    "etymology": "Latin 'circum' (around) + 'locutio' (speaking)."
+  },
+  {
+    "word": "deleterious",
+    "partOfSpeech": "adj.",
+    "definition": "Causing harm or damage.",
+    "synonyms": ["harmful", "injurious", "detrimental"],
+    "etymology": "Greek 'deleterios' (noxious), from 'deleisthai' (to hurt)."
+  },
+  {
+    "word": "ebullient",
+    "partOfSpeech": "adj.",
+    "definition": "Cheerful and full of energy.",
+    "synonyms": ["exuberant", "buoyant", "effervescent"],
+    "etymology": "Latin 'ebullire' (to bubble out), from 'e' (out) + 'bullire' (to boil)."
+  },
+  {
+    "word": "effrontery",
+    "partOfSpeech": "n.",
+    "definition": "Insolent or impertinent behavior; shameless boldness.",
+    "synonyms": ["audacity", "impudence", "gall"],
+    "etymology": "French 'effronterie', ultimately Latin 'effrons' (shameless), 'ex' (out) + 'frons' (forehead)."
+  },
+  {
+    "word": "fortuitous",
+    "partOfSpeech": "adj.",
+    "definition": "Happening by chance, often a lucky one.",
+    "synonyms": ["accidental", "chance", "serendipitous"],
+    "etymology": "Latin 'fortuitus', from 'fors' (chance, luck)."
+  },
+  {
+    "word": "grandiloquent",
+    "partOfSpeech": "adj.",
+    "definition": "Pompous or extravagant in language or style.",
+    "synonyms": ["bombastic", "pompous", "magniloquent"],
+    "etymology": "Latin 'grandis' (grand) + 'loqui' (to speak)."
+  },
+  {
+    "word": "harangue",
+    "partOfSpeech": "n.",
+    "definition": "A lengthy and aggressive speech.",
+    "synonyms": ["tirade", "diatribe", "rant"],
+    "etymology": "Old Italian 'aringa' (public speech), possibly from a Germanic root for 'ring' (assembly)."
+  },
+  {
+    "word": "idiosyncratic",
+    "partOfSpeech": "adj.",
+    "definition": "Peculiar or individual to one person; distinctive.",
+    "synonyms": ["distinctive", "peculiar", "quirky"],
+    "etymology": "Greek 'idios' (own) + 'synkrasis' (mixture, temperament)."
+  },
+  {
+    "word": "impecunious",
+    "partOfSpeech": "adj.",
+    "definition": "Having little or no money.",
+    "synonyms": ["penniless", "destitute", "indigent"],
+    "etymology": "Latin 'in' (not) + 'pecunia' (money), from 'pecus' (cattle, early wealth)."
+  },
+  {
+    "word": "incontrovertible",
+    "partOfSpeech": "adj.",
+    "definition": "Not able to be denied or disputed.",
+    "synonyms": ["indisputable", "undeniable", "irrefutable"],
+    "etymology": "Latin 'in' (not) + 'controvertere' (to turn against, dispute)."
+  },
+  {
+    "word": "insidious",
+    "partOfSpeech": "adj.",
+    "definition": "Proceeding in a gradual, subtle way but with harmful effects.",
+    "synonyms": ["stealthy", "treacherous", "subtle"],
+    "etymology": "Latin 'insidiosus' (cunning), from 'insidiae' (ambush)."
+  },
+  {
+    "word": "intransigent",
+    "partOfSpeech": "adj.",
+    "definition": "Unwilling to change one's views or agree about something.",
+    "synonyms": ["uncompromising", "obdurate", "inflexible"],
+    "etymology": "Spanish 'intransigente', from Latin 'in' (not) + 'transigere' (to come to an agreement)."
+  },
+  {
+    "word": "lassitude",
+    "partOfSpeech": "n.",
+    "definition": "A state of physical or mental weariness; lack of energy.",
+    "synonyms": ["fatigue", "lethargy", "torpor"],
+    "etymology": "Latin 'lassitudo', from 'lassus' (weary)."
+  },
+  {
+    "word": "loquacious",
+    "partOfSpeech": "adj.",
+    "definition": "Tending to talk a great deal; talkative.",
+    "synonyms": ["garrulous", "verbose", "voluble"],
+    "etymology": "Latin 'loquax' (talkative), from 'loqui' (to speak)."
+  },
+  {
+    "word": "mercurial",
+    "partOfSpeech": "adj.",
+    "definition": "Subject to sudden or unpredictable changes of mood.",
+    "synonyms": ["volatile", "capricious", "fickle"],
+    "etymology": "From Mercury, the swift Roman messenger god and the quick-moving metal."
+  },
+  {
+    "word": "obstreperous",
+    "partOfSpeech": "adj.",
+    "definition": "Noisy and difficult to control.",
+    "synonyms": ["unruly", "boisterous", "rowdy"],
+    "etymology": "Latin 'obstreperus' (clamorous), from 'ob' (against) + 'strepere' (to make noise)."
+  },
+  {
+    "word": "pellucid",
+    "partOfSpeech": "adj.",
+    "definition": "Transparently clear in style or meaning; easy to understand.",
+    "synonyms": ["lucid", "limpid", "crystalline"],
+    "etymology": "Latin 'pellucidus', from 'per' (through) + 'lucere' (to shine)."
+  },
+  {
+    "word": "perfidious",
+    "partOfSpeech": "adj.",
+    "definition": "Deceitful and untrustworthy.",
+    "synonyms": ["treacherous", "disloyal", "faithless"],
+    "etymology": "Latin 'perfidus' (faithless), from 'per' (away) + 'fides' (faith)."
+  },
+  {
+    "word": "phlegmatic",
+    "partOfSpeech": "adj.",
+    "definition": "Having an unemotional and calm disposition.",
+    "synonyms": ["stolid", "impassive", "composed"],
+    "etymology": "Greek 'phlegmatikos'; from the medieval humor 'phlegm', thought to cause calmness."
+  },
+  {
+    "word": "platitude",
+    "partOfSpeech": "n.",
+    "definition": "A remark or statement used too often to be interesting.",
+    "synonyms": ["cliche", "truism", "banality"],
+    "etymology": "French 'platitude', from 'plat' (flat); a 'flat' remark."
+  },
+  {
+    "word": "precarious",
+    "partOfSpeech": "adj.",
+    "definition": "Not securely held or in position; dangerously likely to fall.",
+    "synonyms": ["unstable", "insecure", "perilous"],
+    "etymology": "Latin 'precarius' (obtained by begging), from 'prex' (prayer)."
+  },
+  {
+    "word": "prevaricate",
+    "partOfSpeech": "v.",
+    "definition": "To speak or act evasively to avoid the truth.",
+    "synonyms": ["equivocate", "dodge", "hedge"],
+    "etymology": "Latin 'praevaricari' (to walk crookedly), from 'prae' (before) + 'varicare' (to straddle)."
+  },
+  {
+    "word": "pulchritude",
+    "partOfSpeech": "n.",
+    "definition": "Physical beauty.",
+    "synonyms": ["beauty", "comeliness", "loveliness"],
+    "etymology": "Latin 'pulchritudo', from 'pulcher' (beautiful)."
+  },
+  {
+    "word": "quintessential",
+    "partOfSpeech": "adj.",
+    "definition": "Representing the most perfect example of a quality or class.",
+    "synonyms": ["archetypal", "definitive", "ultimate"],
+    "etymology": "Medieval Latin 'quinta essentia' (fifth essence), the purest element beyond the four classical ones."
+  },
+  {
+    "word": "rancorous",
+    "partOfSpeech": "adj.",
+    "definition": "Characterized by bitterness or resentment.",
+    "synonyms": ["bitter", "spiteful", "venomous"],
+    "etymology": "Latin 'rancor' (rancidness, grudge), from 'rancere' (to stink)."
+  },
+  {
+    "word": "redoubtable",
+    "partOfSpeech": "adj.",
+    "definition": "Formidable, especially as an opponent.",
+    "synonyms": ["formidable", "fearsome", "mighty"],
+    "etymology": "Old French 'redouter' (to dread), from Latin 're' + 'dubitare' (to doubt)."
+  },
+  {
+    "word": "salubrious",
+    "partOfSpeech": "adj.",
+    "definition": "Health-giving; healthy.",
+    "synonyms": ["wholesome", "healthful", "beneficial"],
+    "etymology": "Latin 'salubris', from 'salus' (health, well-being)."
+  },
+  {
+    "word": "soporific",
+    "partOfSpeech": "adj.",
+    "definition": "Tending to induce drowsiness or sleep.",
+    "synonyms": ["sleep-inducing", "sedative", "drowsy"],
+    "etymology": "Latin 'sopor' (deep sleep) + '-ficus' (making)."
+  },
+  {
+    "word": "spurious",
+    "partOfSpeech": "adj.",
+    "definition": "Not being what it purports to be; false or fake.",
+    "synonyms": ["bogus", "counterfeit", "specious"],
+    "etymology": "Latin 'spurius' (illegitimate, of false origin)."
+  },
+  {
+    "word": "surreptitious",
+    "partOfSpeech": "adj.",
+    "definition": "Kept secret because it would not be approved of.",
+    "synonyms": ["clandestine", "covert", "furtive"],
+    "etymology": "Latin 'surreptitius', from 'surripere' (to seize secretly)."
+  },
+  {
+    "word": "trenchant",
+    "partOfSpeech": "adj.",
+    "definition": "Vigorous and incisive in expression or style.",
+    "synonyms": ["incisive", "cutting", "penetrating"],
+    "etymology": "Old French 'trenchant' (cutting), from 'trenchier' (to cut)."
+  },
+  {
+    "word": "vituperative",
+    "partOfSpeech": "adj.",
+    "definition": "Bitter and abusive in language.",
+    "synonyms": ["abusive", "scathing", "venomous"],
+    "etymology": "Latin 'vituperare' (to blame), from 'vitium' (fault) + 'parare' (to prepare)."
+  },
+  {
+    "word": "wanton",
+    "partOfSpeech": "adj.",
+    "definition": "Deliberate and unprovoked; without restraint.",
+    "synonyms": ["gratuitous", "unrestrained", "reckless"],
+    "etymology": "Middle English 'wantowen', from 'wan-' (lacking) + 'towen' (trained, disciplined)."
+  },
+  {
+    "word": "zealous",
+    "partOfSpeech": "adj.",
+    "definition": "Having or showing great energy or enthusiasm for a cause.",
+    "synonyms": ["fervent", "ardent", "passionate"],
+    "etymology": "Greek 'zelos' (ardor, jealousy), via Latin 'zelosus'."
+  },
+  {
+    "word": "acumen",
+    "partOfSpeech": "n.",
+    "definition": "The ability to make good judgments and quick decisions.",
+    "synonyms": ["shrewdness", "insight", "discernment"],
+    "etymology": "Latin 'acumen' (a point, sharpness), from 'acuere' (to sharpen)."
+  },
+  {
+    "word": "anathema",
+    "partOfSpeech": "n.",
+    "definition": "Something or someone intensely disliked or detested.",
+    "synonyms": ["abomination", "bane", "bugbear"],
+    "etymology": "Greek 'anathema' (a thing devoted to evil), originally 'a thing set up' as an offering."
+  },
+  {
+    "word": "antithesis",
+    "partOfSpeech": "n.",
+    "definition": "A person or thing that is the direct opposite of another.",
+    "synonyms": ["opposite", "contrast", "reverse"],
+    "etymology": "Greek 'antithesis' (opposition), from 'anti' (against) + 'thesis' (placing)."
+  },
+  {
+    "word": "cognizant",
+    "partOfSpeech": "adj.",
+    "definition": "Having knowledge or awareness.",
+    "synonyms": ["aware", "conscious", "mindful"],
+    "etymology": "Latin 'cognoscere' (to know), from 'co' + 'gnoscere' (to learn)."
+  },
+  {
+    "word": "demarcate",
+    "partOfSpeech": "v.",
+    "definition": "To set the boundaries or limits of something.",
+    "synonyms": ["delineate", "define", "bound"],
+    "etymology": "Spanish 'demarcar', from 'de' + 'marcar' (to mark)."
+  },
+  {
+    "word": "dichotomy",
+    "partOfSpeech": "n.",
+    "definition": "A division or contrast between two things presented as opposed.",
+    "synonyms": ["division", "split", "contrast"],
+    "etymology": "Greek 'dichotomia', from 'dicha' (in two) + 'temnein' (to cut)."
+  },
+  {
+    "word": "egregious",
+    "partOfSpeech": "adj.",
+    "definition": "Outstandingly bad; shocking.",
+    "synonyms": ["flagrant", "glaring", "blatant"],
+    "etymology": "Latin 'egregius' (distinguished), from 'e' (out of) + 'grex' (flock); irony shifted it negative."
+  },
+  {
+    "word": "enervate",
+    "partOfSpeech": "v.",
+    "definition": "To cause someone to feel drained of energy or vitality.",
+    "synonyms": ["weaken", "exhaust", "debilitate"],
+    "etymology": "Latin 'enervare' (to weaken), from 'e' (out) + 'nervus' (sinew)."
+  },
+  {
+    "word": "ephemeralize",
+    "partOfSpeech": "v.",
+    "definition": "To do more with less; to make something achieve more with fewer resources.",
+    "synonyms": ["streamline", "optimize"],
+    "etymology": "Coined by Buckminster Fuller from 'ephemeral'; doing progressively more with progressively less."
+  },
+  {
+    "word": "esoteric",
+    "partOfSpeech": "adj.",
+    "definition": "Intended for or understood by only a small group with specialized knowledge.",
+    "synonyms": ["arcane", "obscure", "abstruse"],
+    "etymology": "Greek 'esoterikos' (inner), from 'eso' (within)."
+  },
+  {
+    "word": "fulminate",
+    "partOfSpeech": "v.",
+    "definition": "To express vehement protest.",
+    "synonyms": ["rail", "denounce", "inveigh"],
+    "etymology": "Latin 'fulminare' (to strike with lightning), from 'fulmen' (thunderbolt)."
+  },
+  {
+    "word": "gregarious",
+    "partOfSpeech": "adj.",
+    "definition": "Fond of company; sociable.",
+    "synonyms": ["sociable", "outgoing", "convivial"],
+    "etymology": "Latin 'gregarius' (belonging to a flock), from 'grex' (flock, herd)."
+  },
+  {
+    "word": "halcyon",
+    "partOfSpeech": "adj.",
+    "definition": "Denoting a period of time in the past that was idyllically happy and peaceful.",
+    "synonyms": ["serene", "golden", "tranquil"],
+    "etymology": "Greek 'halkyon' (kingfisher), a bird said to calm the seas while nesting."
+  },
+  {
+    "word": "imperturbable",
+    "partOfSpeech": "adj.",
+    "definition": "Unable to be upset or excited; calm.",
+    "synonyms": ["composed", "unflappable", "serene"],
+    "etymology": "Latin 'in' (not) + 'perturbare' (to disturb thoroughly)."
+  },
+  {
+    "word": "incipient",
+    "partOfSpeech": "adj.",
+    "definition": "Beginning to happen or develop.",
+    "synonyms": ["nascent", "emerging", "embryonic"],
+    "etymology": "Latin 'incipere' (to begin), from 'in' + 'capere' (to take)."
+  },
+  {
+    "word": "indelible",
+    "partOfSpeech": "adj.",
+    "definition": "Not able to be forgotten or removed.",
+    "synonyms": ["permanent", "ineradicable", "lasting"],
+    "etymology": "Latin 'indelebilis', from 'in' (not) + 'delere' (to destroy, blot out)."
+  },
+  {
+    "word": "ineluctable",
+    "partOfSpeech": "adj.",
+    "definition": "Unable to be resisted or avoided; inescapable.",
+    "synonyms": ["inevitable", "unavoidable", "inexorable"],
+    "etymology": "Latin 'ineluctabilis', from 'in' (not) + 'eluctari' (to struggle out)."
+  },
+  {
+    "word": "inscrutable",
+    "partOfSpeech": "adj.",
+    "definition": "Impossible to understand or interpret.",
+    "synonyms": ["enigmatic", "impenetrable", "cryptic"],
+    "etymology": "Latin 'inscrutabilis', from 'in' (not) + 'scrutari' (to search)."
+  },
+  {
+    "word": "jejune",
+    "partOfSpeech": "adj.",
+    "definition": "Naive, simplistic, and superficial.",
+    "synonyms": ["insipid", "vapid", "banal"],
+    "etymology": "Latin 'jejunus' (fasting, barren, meager)."
+  },
+  {
+    "word": "kismet",
+    "partOfSpeech": "n.",
+    "definition": "Destiny or fate.",
+    "synonyms": ["fate", "destiny", "providence"],
+    "etymology": "Turkish 'kismet', from Arabic 'qisma' (portion, lot)."
+  },
+  {
+    "word": "labyrinthine",
+    "partOfSpeech": "adj.",
+    "definition": "Complicated and confusing; like a maze.",
+    "synonyms": ["maze-like", "convoluted", "tortuous"],
+    "etymology": "Greek 'labyrinthos', the mythical maze built to house the Minotaur."
+  },
+  {
+    "word": "languid",
+    "partOfSpeech": "adj.",
+    "definition": "Displaying a pleasant lack of energy; relaxed and slow.",
+    "synonyms": ["languorous", "unhurried", "listless"],
+    "etymology": "Latin 'languidus', from 'languere' (to be faint)."
+  },
+  {
+    "word": "maelstrom",
+    "partOfSpeech": "n.",
+    "definition": "A powerful whirlpool; a scene of confused, turbulent movement.",
+    "synonyms": ["whirlpool", "turmoil", "tumult"],
+    "etymology": "Early modern Dutch 'maelstrom', from 'malen' (to grind) + 'stroom' (stream)."
+  },
+  {
+    "word": "nadir",
+    "partOfSpeech": "n.",
+    "definition": "The lowest point in the fortunes of a person or organization.",
+    "synonyms": ["low point", "bottom", "depths"],
+    "etymology": "Arabic 'nazir' (opposite), the point of the sky directly below an observer."
+  },
+  {
+    "word": "obdurate",
+    "partOfSpeech": "adj.",
+    "definition": "Stubbornly refusing to change one's opinion or course.",
+    "synonyms": ["stubborn", "unyielding", "intractable"],
+    "etymology": "Latin 'obduratus', from 'ob' + 'durare' (to harden), from 'durus' (hard)."
+  },
+  {
+    "word": "paragon",
+    "partOfSpeech": "n.",
+    "definition": "A person or thing regarded as a perfect example of a quality.",
+    "synonyms": ["model", "exemplar", "epitome"],
+    "etymology": "Italian 'paragone' (touchstone, comparison), from Greek 'parakonan' (to sharpen against)."
+  },
+  {
+    "word": "penchant",
+    "partOfSpeech": "n.",
+    "definition": "A strong or habitual liking for something.",
+    "synonyms": ["fondness", "predilection", "proclivity"],
+    "etymology": "French 'penchant' (leaning), from 'pencher' (to incline)."
+  },
+  {
+    "word": "quagmire",
+    "partOfSpeech": "n.",
+    "definition": "A complex or difficult situation from which it is hard to escape.",
+    "synonyms": ["predicament", "morass", "bind"],
+    "etymology": "From 'quag' (boggy ground) + 'mire' (swamp)."
+  },
+  {
+    "word": "rapprochement",
+    "partOfSpeech": "n.",
+    "definition": "The reestablishment of harmonious relations.",
+    "synonyms": ["reconciliation", "detente", "accord"],
+    "etymology": "French 'rapprochement', from 'rapprocher' (to bring near again)."
+  },
+  {
+    "word": "sagacity",
+    "partOfSpeech": "n.",
+    "definition": "Keenness of judgment; wisdom.",
+    "synonyms": ["wisdom", "insight", "discernment"],
+    "etymology": "Latin 'sagacitas', from 'sagax' (of keen perception)."
+  },
+  {
+    "word": "temerity",
+    "partOfSpeech": "n.",
+    "definition": "Excessive confidence or boldness; audacity.",
+    "synonyms": ["audacity", "nerve", "recklessness"],
+    "etymology": "Latin 'temeritas', from 'temere' (rashly, blindly)."
+  },
+  {
+    "word": "ubiquity",
+    "partOfSpeech": "n.",
+    "definition": "The state of being everywhere at once.",
+    "synonyms": ["omnipresence", "pervasiveness"],
+    "etymology": "Latin 'ubique' (everywhere), from 'ubi' (where)."
+  },
+  {
+    "word": "verisimilitude",
+    "partOfSpeech": "n.",
+    "definition": "The appearance of being true or real.",
+    "synonyms": ["realism", "authenticity", "plausibility"],
+    "etymology": "Latin 'verisimilitudo', from 'verus' (true) + 'similis' (like)."
+  },
+  {
+    "word": "wherewithal",
+    "partOfSpeech": "n.",
+    "definition": "The money or other means needed for a purpose.",
+    "synonyms": ["resources", "means", "funds"],
+    "etymology": "From 'where' + 'withal' (with); an old compound meaning 'the means with which'."
+  },
+  {
+    "word": "xenial",
+    "partOfSpeech": "adj.",
+    "definition": "Relating to hospitality between host and guest.",
+    "synonyms": ["hospitable", "welcoming"],
+    "etymology": "Greek 'xenos' (guest, stranger); related to 'xenia', the sacred guest-friendship."
+  },
+  {
+    "word": "yearn",
+    "partOfSpeech": "v.",
+    "definition": "To have an intense feeling of longing for something.",
+    "synonyms": ["long", "pine", "crave"],
+    "etymology": "Old English 'giernan' (to desire), from a Germanic root meaning 'eager'."
+  },
+  {
+    "word": "zenith",
+    "partOfSpeech": "n.",
+    "definition": "The highest point reached; the culmination.",
+    "synonyms": ["peak", "apex", "summit"],
+    "etymology": "Arabic 'samt' (path, direction), the point directly overhead; counterpart to nadir."
+  }
+]
