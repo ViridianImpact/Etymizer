@@ -3,8 +3,10 @@
 **Etymizer** is an iOS home-screen widget that shows you one word a day — its
 definition, synonyms, and a bit of etymology. It rotates automatically at
 midnight, works offline from a bundled word list, and enriches definitions from
-a free dictionary API when you're online. No account, no menu, no notifications,
-no upsell. It just puts a good word on your home screen every morning.
+a free dictionary API when you're online. Tap the speaker icon to hear the word 
+pronounced in five accents (US, UK, Australian, Irish, South African).No account, no 
+menu, no notifications, no upsell. It just puts a good word on your home screen 
+every morning.
 
 Small and medium home-screen widgets plus three lock-screen styles. Built with
 WidgetKit and SwiftUI.
@@ -85,8 +87,8 @@ plist change needed. (If you ever see a network error, confirm the URL is `https
 
 ## Customizing the word list
 Edit `WordBank.json`. Each entry needs `word`, `definition`, `synonyms`, `etymology`.
-Add as many as you like — the app rotates through them by calendar day, so ~365 entries
-gives you a full year before any repeat. The live API will override `definition`/
+Add as many as you like — the app rotates through them by calendar day — add more 
+entries to stretch the cycle before repeats. The live API will override `definition`/
 `synonyms` when online; your `etymology` is always preserved.
 
 ## How the daily rotation works
